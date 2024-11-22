@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/IZI1996/restaruant/static/css/main.62f733ec.chunk.css",
+    "main.js": "/IZI1996/restaruant/static/js/main.9144923f.chunk.js",
+    "main.js.map": "/IZI1996/restaruant/static/js/main.9144923f.chunk.js.map",
+    "runtime-main.js": "/IZI1996/restaruant/static/js/runtime-main.623a5f1e.js",
+    "runtime-main.js.map": "/IZI1996/restaruant/static/js/runtime-main.623a5f1e.js.map",
+    "static/css/2.29482228.chunk.css": "/IZI1996/restaruant/static/css/2.29482228.chunk.css",
+    "static/js/2.92378bf2.chunk.js": "/IZI1996/restaruant/static/js/2.92378bf2.chunk.js",
+    "static/js/2.92378bf2.chunk.js.map": "/IZI1996/restaruant/static/js/2.92378bf2.chunk.js.map",
+    "static/js/3.7c3ee113.chunk.js": "/IZI1996/restaruant/static/js/3.7c3ee113.chunk.js",
+    "static/js/3.7c3ee113.chunk.js.map": "/IZI1996/restaruant/static/js/3.7c3ee113.chunk.js.map",
+    "index.html": "/IZI1996/restaruant/index.html",
+    "static/css/2.29482228.chunk.css.map": "/IZI1996/restaruant/static/css/2.29482228.chunk.css.map",
+    "static/css/main.62f733ec.chunk.css.map": "/IZI1996/restaruant/static/css/main.62f733ec.chunk.css.map",
+    "static/js/2.92378bf2.chunk.js.LICENSE.txt": "/IZI1996/restaruant/static/js/2.92378bf2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.623a5f1e.js",
+    "static/css/2.29482228.chunk.css",
+    "static/js/2.92378bf2.chunk.js",
+    "static/css/main.62f733ec.chunk.css",
+    "static/js/main.9144923f.chunk.js"
+  ]
+}
